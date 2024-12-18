@@ -1,1 +1,45 @@
+body {
+  background-color: pink;
+}
 
+h4 {
+  color: purple;
+  font-size: 50px;
+  font-variant: small-caps;
+  text-decoration-line: overline underline;
+  text-decoration-color: purple;
+  letter-spacing: 5px;
+}
+
+img {
+  width: 60%
+  border-radius: 8px; 
+}
+
+ul {
+  list-style: none;
+  background-color: #F765A3;
+  width: 100%;
+  margin: 0;
+  position:fixed;
+  left: 0;
+  top: 0;
+  padding: 10px;
+}
+
+li{
+  display: inline;
+  padding: 8px 40px;
+  font-size: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: darkred;
+  font-variant: small-caps;
+}
+
+li a:hover {
+  background-color: wheat;
+  opacity: 1;
+}
