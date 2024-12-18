@@ -1,5 +1,4 @@
-<style>
-  body {
+ body {
   background-color: pink;
 }
 
@@ -42,7 +41,6 @@ a{
 
 li a:hover {
   background-color: wheat;
-  padding 18px;
+  padding: 18px;
   opacity: 1;
 }
-</style>
